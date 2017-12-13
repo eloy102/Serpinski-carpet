@@ -6,10 +6,10 @@ namespace Serpinski
 {
     public partial class Form1 : Form
     {
-        private int width;
-        private int height;
-        private Bitmap fractal;
-        private Graphics graph;
+         int width;
+         int height;
+         Bitmap fractal;
+         Graphics graph;
 
         public Form1()
         {
